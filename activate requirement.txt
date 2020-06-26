@@ -1,0 +1,8 @@
+(set "FLASK_ENV=development"
+set "FLASK_APP=app.py"
+set "MAPBOX_TOKEN=YOUR_KEY") // for activate.bat
+
+
+set "FLASK_APP="
+set "FLASK_ENV="
+set "MAPBOX_TOKEN="
